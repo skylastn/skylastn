@@ -2,7 +2,7 @@
 
 I'm Sahid and I am Fullstack Developer.
 
-* 👯 I’m looking to collaborate on packages
+* 👯 I’m looking opportunity to upgrade my skill and experience (remote preferred)
 * 📫 How to reach me:sahidrahutomo@gmail.com
 
 ##  ⚡ Connect With Me
