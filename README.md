@@ -22,6 +22,7 @@ I turn ideas into real products and continuously improve my skills through real-
 [![Linkedin Badge](https://img.shields.io/badge/-Sahid%20Rahutomo-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahid-rahutomo-0145391a5/)
 [![Instagram Badge](https://img.shields.io/badge/-@sahidklaten-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sahidklaten/)
 [![Github Badge](https://img.shields.io/badge/-skylastn-black?style=flat-square&logo=github&logoColor=white)](https://github.com/skylastn)
+[![Threads Badge](https://img.shields.io/badge/-@sahidklaten-black?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@sahidklaten)
 
 ---
 
