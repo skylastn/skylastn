@@ -59,7 +59,7 @@ I enjoy turning ideas into real products and continuously improving my skills th
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=skylastn\&count_private=true\&show_icons=true\&include_all_commits=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skylastn&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylastn\&hide=TeX\&layout=compact\&theme=tokyonight)
 
