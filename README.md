@@ -3,7 +3,7 @@
 I'm Sahid and I am Fullstack Developer.
 
 * 👯 I’m looking opportunity to upgrade my skill and experience (remote preferred)
-* 📫 How to reach me:sahidrahutomo@gmail.com
+* 📫 How to reach me:sahidrahutomo1@gmail.com
 
 ##  ⚡ Connect With Me
 
